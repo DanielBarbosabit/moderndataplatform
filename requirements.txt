@@ -1,0 +1,12 @@
+pandas
+python-dotenv==1.0.1
+chainlit==1.3.2
+openai==1.54.4
+psycopg2-binary==2.9.10
+llama-index
+llama-index-tools-database
+sqlalchemy
+pydantic==2.9.0
+alpha-vantage
+numpy
+httpx==0.27.2

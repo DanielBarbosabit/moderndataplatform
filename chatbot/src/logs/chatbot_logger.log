@@ -1,0 +1,255 @@
+2025-01-08 18:06:11 - chatbot_logger - INFO - This is a debug message.
+2025-01-08 18:08:13 - chatbot_logger - INFO - New user message received
+2025-01-08 18:08:17 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:08:17 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:08:44 - chatbot_logger - INFO - New user message received
+2025-01-08 18:08:46 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:08:46 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:10:02 - chatbot_logger - INFO - New user message received
+2025-01-08 18:10:08 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:10:08 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:10:37 - chatbot_logger - INFO - New user message received
+2025-01-08 18:10:49 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:10:49 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:11:10 - chatbot_logger - INFO - New user message received
+2025-01-08 18:11:29 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:11:29 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:14:00 - chatbot_logger - INFO - New user message received
+2025-01-08 18:14:02 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:14:02 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:14:15 - chatbot_logger - INFO - New user message received
+2025-01-08 18:14:19 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:14:19 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:14:52 - chatbot_logger - INFO - New user message received
+2025-01-08 18:15:42 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:15:42 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:16:10 - chatbot_logger - INFO - New user message received
+2025-01-08 18:16:14 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:16:14 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:16:32 - chatbot_logger - INFO - New user message received
+2025-01-08 18:16:35 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:16:35 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:18:06 - chatbot_logger - INFO - New user message received
+2025-01-08 18:18:08 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:18:08 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:18:17 - chatbot_logger - INFO - New user message received
+2025-01-08 18:18:21 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:18:21 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:18:27 - chatbot_logger - INFO - New user message received
+2025-01-08 18:18:29 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:18:29 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:20:37 - chatbot_logger - INFO - New user message received
+2025-01-08 18:20:48 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:20:48 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:21:05 - chatbot_logger - INFO - New user message received
+2025-01-08 18:21:10 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:21:10 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:21:22 - chatbot_logger - INFO - New user message received
+2025-01-08 18:21:38 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:21:38 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:22:00 - chatbot_logger - INFO - New user message received
+2025-01-08 18:22:07 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:22:07 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:22:16 - chatbot_logger - INFO - New user message received
+2025-01-08 18:22:18 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:22:18 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:22:27 - chatbot_logger - INFO - New user message received
+2025-01-08 18:22:41 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:22:41 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:22:59 - chatbot_logger - INFO - New user message received
+2025-01-08 18:23:29 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:23:29 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:23:44 - chatbot_logger - INFO - New user message received
+2025-01-08 18:23:48 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:23:48 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:24:08 - chatbot_logger - INFO - New user message received
+2025-01-08 18:24:44 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:24:44 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:25:31 - chatbot_logger - INFO - New user message received
+2025-01-08 18:25:41 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:25:41 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:28:16 - chatbot_logger - INFO - New user message received
+2025-01-08 18:28:21 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:28:21 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:30:46 - chatbot_logger - INFO - New user message received
+2025-01-08 18:30:49 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:30:49 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:30:57 - chatbot_logger - INFO - New user message received
+2025-01-08 18:31:00 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:31:00 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:31:21 - chatbot_logger - INFO - New user message received
+2025-01-08 18:31:27 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:31:27 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:31:51 - chatbot_logger - INFO - New user message received
+2025-01-08 18:32:14 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:32:14 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:32:42 - chatbot_logger - INFO - New user message received
+2025-01-08 18:32:47 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:32:47 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:33:42 - chatbot_logger - INFO - New user message received
+2025-01-08 18:33:58 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:33:59 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:34:35 - chatbot_logger - INFO - New user message received
+2025-01-08 18:34:51 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:34:51 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:39:50 - chatbot_logger - INFO - New user message received
+2025-01-08 18:39:51 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:39:51 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:41:15 - chatbot_logger - INFO - Available tools: ['load_data', 'describe_tables', 'list_tables']
+2025-01-08 18:45:55 - chatbot_logger - INFO - New user message received
+2025-01-08 18:45:56 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:45:56 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:46:03 - chatbot_logger - INFO - New user message received
+2025-01-08 18:46:05 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:46:05 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:46:15 - chatbot_logger - INFO - New user message received
+2025-01-08 18:46:17 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:46:17 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:49:08 - chatbot_logger - INFO - New user message received
+2025-01-08 18:49:11 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:49:11 - chatbot_logger - INFO - Response was sent to user
+2025-01-08 18:49:23 - chatbot_logger - INFO - New user message received
+2025-01-08 18:49:39 - chatbot_logger - INFO - Agent generated response
+2025-01-08 18:49:39 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 08:30:24 - chatbot_logger - INFO - Available tools: ['load_data', 'describe_tables', 'list_tables']
+2025-01-09 08:30:33 - chatbot_logger - INFO - New user message received
+2025-01-09 08:30:34 - chatbot_logger - INFO - Agent generated response
+2025-01-09 08:30:34 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 08:30:39 - chatbot_logger - INFO - New user message received
+2025-01-09 08:30:42 - chatbot_logger - INFO - Agent generated response
+2025-01-09 08:30:42 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 08:30:53 - chatbot_logger - INFO - New user message received
+2025-01-09 08:30:55 - chatbot_logger - INFO - Agent generated response
+2025-01-09 08:30:55 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 08:31:03 - chatbot_logger - INFO - New user message received
+2025-01-09 08:31:06 - chatbot_logger - INFO - Agent generated response
+2025-01-09 08:31:06 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:06:26 - chatbot_logger - INFO - New user message received
+2025-01-09 13:06:33 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:06:33 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:06:55 - chatbot_logger - INFO - New user message received
+2025-01-09 13:06:56 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:06:56 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:07:06 - chatbot_logger - INFO - New user message received
+2025-01-09 13:07:08 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:07:08 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:07:45 - chatbot_logger - INFO - New user message received
+2025-01-09 13:07:50 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:07:50 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:08:07 - chatbot_logger - INFO - New user message received
+2025-01-09 13:08:18 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:08:18 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:09:49 - chatbot_logger - INFO - New user message received
+2025-01-09 13:09:54 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:09:54 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:14:34 - chatbot_logger - INFO - New user message received
+2025-01-09 13:14:36 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:14:36 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:14:54 - chatbot_logger - INFO - New user message received
+2025-01-09 13:14:57 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:14:57 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:19:03 - chatbot_logger - INFO - New user message received
+2025-01-09 13:19:04 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:19:04 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:19:40 - chatbot_logger - INFO - New user message received
+2025-01-09 13:19:41 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:19:41 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:21:33 - chatbot_logger - INFO - Available tools: ['load_data', 'describe_tables', 'list_tables']
+2025-01-09 13:49:46 - chatbot_logger - INFO - New user message received
+2025-01-09 13:49:47 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:49:47 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:49:58 - chatbot_logger - INFO - New user message received
+2025-01-09 13:49:59 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:49:59 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:50:14 - chatbot_logger - INFO - New user message received
+2025-01-09 13:50:16 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:50:16 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 13:50:29 - chatbot_logger - INFO - New user message received
+2025-01-09 13:50:40 - chatbot_logger - INFO - Agent generated response
+2025-01-09 13:50:40 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:07:27 - chatbot_logger - INFO - New user message received
+2025-01-09 14:07:28 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:07:28 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:07:33 - chatbot_logger - INFO - New user message received
+2025-01-09 14:07:34 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:07:34 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:07:54 - chatbot_logger - INFO - New user message received
+2025-01-09 14:07:57 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:07:57 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:08:33 - chatbot_logger - INFO - New user message received
+2025-01-09 14:08:45 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:08:45 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:09:40 - chatbot_logger - INFO - New user message received
+2025-01-09 14:09:43 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:09:43 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:10:18 - chatbot_logger - INFO - New user message received
+2025-01-09 14:10:24 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:10:24 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:12:06 - chatbot_logger - INFO - New user message received
+2025-01-09 14:12:09 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:12:09 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:12:43 - chatbot_logger - INFO - New user message received
+2025-01-09 14:12:48 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:12:48 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:12:57 - chatbot_logger - INFO - New user message received
+2025-01-09 14:13:04 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:13:04 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:13:58 - chatbot_logger - INFO - New user message received
+2025-01-09 14:14:06 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:14:06 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:14:19 - chatbot_logger - INFO - New user message received
+2025-01-09 14:14:23 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:14:23 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:15:17 - chatbot_logger - INFO - New user message received
+2025-01-09 14:15:21 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:15:21 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:15:36 - chatbot_logger - INFO - New user message received
+2025-01-09 14:15:45 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:15:45 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:15:57 - chatbot_logger - INFO - New user message received
+2025-01-09 14:16:02 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:16:02 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:17:17 - chatbot_logger - INFO - New user message received
+2025-01-09 14:17:20 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:17:20 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:19:02 - chatbot_logger - INFO - New user message received
+2025-01-09 14:19:07 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:19:07 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:19:18 - chatbot_logger - INFO - New user message received
+2025-01-09 14:19:28 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:19:28 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:21:24 - chatbot_logger - INFO - New user message received
+2025-01-09 14:21:32 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:21:32 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:21:51 - chatbot_logger - INFO - New user message received
+2025-01-09 14:21:55 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:21:55 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:42:38 - chatbot_logger - INFO - New user message received
+2025-01-09 14:42:42 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:42:42 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:47:33 - chatbot_logger - INFO - New user message received
+2025-01-09 14:47:35 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:47:35 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:49:07 - chatbot_logger - INFO - New user message received
+2025-01-09 14:49:10 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:49:10 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:49:46 - chatbot_logger - INFO - New user message received
+2025-01-09 14:49:51 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:49:51 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:50:11 - chatbot_logger - INFO - New user message received
+2025-01-09 14:50:25 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:50:25 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:54:06 - chatbot_logger - INFO - New user message received
+2025-01-09 14:54:08 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:54:08 - chatbot_logger - INFO - Response was sent to user
+2025-01-09 14:54:11 - chatbot_logger - INFO - New user message received
+2025-01-09 14:54:12 - chatbot_logger - INFO - Agent generated response
+2025-01-09 14:54:12 - chatbot_logger - INFO - Response was sent to user
+2025-01-10 13:16:57 - chatbot_logger - INFO - Available tools: ['load_data', 'describe_tables', 'list_tables']
+2025-01-10 13:17:01 - chatbot_logger - INFO - New user message received
+2025-01-10 13:17:03 - chatbot_logger - INFO - Agent generated response
+2025-01-10 13:17:03 - chatbot_logger - INFO - Response was sent to user
+2025-01-10 13:18:56 - chatbot_logger - INFO - Available tools: ['load_data', 'describe_tables', 'list_tables']
+2025-01-10 13:19:01 - chatbot_logger - INFO - New user message received
+2025-01-10 13:19:03 - chatbot_logger - INFO - Agent generated response
+2025-01-10 13:19:03 - chatbot_logger - INFO - Response was sent to user

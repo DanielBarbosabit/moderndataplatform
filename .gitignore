@@ -1,0 +1,8 @@
+.venv
+*.env
+ingestion/.env
+ingestion/apps
+ingestion/data
+ingestion/temporal
+.idea
+__pycache__*
