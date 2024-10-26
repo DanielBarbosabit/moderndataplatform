@@ -1,0 +1,4 @@
+alpha_vantage==3.0.0
+pandas
+pyspark==3.5.3
+python-dotenv==1.0.1

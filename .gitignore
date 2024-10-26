@@ -1,0 +1,6 @@
+.venv
+.env
+apps
+data
+temporal
+.idea
